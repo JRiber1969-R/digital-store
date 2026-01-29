@@ -21,5 +21,12 @@ header{
     font-weight: 600;
     color: #C92071;
     text-decoration: none;
+    }
+    img{
+        display: flex;
+        text-align: left;
+        justify-content: left;
+    }
 }
+main{
 }
